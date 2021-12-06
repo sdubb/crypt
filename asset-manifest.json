@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/crypt/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/crypt/static/js/main.f83a8ac0.chunk.js",
+    "main.js.map": "/crypt/static/js/main.f83a8ac0.chunk.js.map",
+    "runtime-main.js": "/crypt/static/js/runtime-main.98f39163.js",
+    "runtime-main.js.map": "/crypt/static/js/runtime-main.98f39163.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/crypt/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.3f960e1a.chunk.js": "/crypt/static/js/2.3f960e1a.chunk.js",
+    "static/js/2.3f960e1a.chunk.js.map": "/crypt/static/js/2.3f960e1a.chunk.js.map",
+    "index.html": "/crypt/index.html",
+    "precache-manifest.e7353cb4fda011bbab13412a99884881.js": "/crypt/precache-manifest.e7353cb4fda011bbab13412a99884881.js",
+    "service-worker.js": "/crypt/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/crypt/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/crypt/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.3f960e1a.chunk.js.LICENSE.txt": "/crypt/static/js/2.3f960e1a.chunk.js.LICENSE.txt",
+    "static/media/photo.png": "/crypt/static/media/photo.d6cbd8e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f39163.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.3f960e1a.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.f83a8ac0.chunk.js"
+  ]
+}
